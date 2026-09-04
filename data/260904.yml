@@ -7,7 +7,7 @@ about:
   head: 4f83f8e
   archived: false
   latestVersion: v0.1.1
-  collectedAt: 2026-09-04T19:33:40Z
+  collectedAt: 2026-09-04T20:56:50Z
 timeline:
   created: 2022-11-12
   lastCommit: 2023-10-30
@@ -80,5 +80,28 @@ total:
   openIssue: 14
   commit: 131
 ---
+path: /home/runner/.x-repo/github.com/maaslalani/nap
+collectedAt: 2026-09-04T20:56:51Z
+loc:
+  Go:
+    code: 1662
+    comments: 129
+    blanks: 223
+    files: 11
+  Yaml:
+    code: 28
+    comments: 0
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 88
+    blanks: 50
+    files: 1
+total:
+  code: 1730
+  comments: 231
+  blanks: 287
+  files: 13
 ---
 
