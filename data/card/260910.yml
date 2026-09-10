@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.1"
   latestRelease: "v0.1.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:55:26Z
+  collectedAt: 2026-09-10T16:35:04Z
 timeline:
   created: 2022-11-12
   lastCommit: 2023-10-30
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2022-11-21
   lastPrerelease: 
 popularity:
-  star: 2219
+  star: 2218
   watcher: 6
   fork: 67
   release: 2
@@ -83,7 +83,7 @@ total:
   commit: 131
 ---
 path: /home/runner/.x-repo/github.com/maaslalani/nap
-collectedAt: 2026-09-10T04:55:26Z
+collectedAt: 2026-09-10T16:35:08Z
 loc:
   Go:
     code: 1662
