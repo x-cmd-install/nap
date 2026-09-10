@@ -22,11 +22,21 @@ x install nap
 - **Latest**: `v0.1.1` (2022-11-21)
 - **Last commit**: 2023-10-30
 - **Assets in release**: 6
-- **Published**: 2022-11-21T15:24:51Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [nap_0.1.1_checksums.txt](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_checksums.txt) | 475 B | `other` |
+| [nap_0.1.1_darwin_amd64.tar.gz](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_darwin_amd64.tar.gz) | 2.3 MiB | `native/darwin/x64` |
+| [nap_0.1.1_darwin_arm64.tar.gz](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_darwin_arm64.tar.gz) | 2.3 MiB | `native/darwin/arm64` |
+| [nap_0.1.1_linux_386.tar.gz](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_linux_386.tar.gz) | 2.2 MiB | `native/unknown` |
+| [nap_0.1.1_linux_amd64.tar.gz](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_linux_amd64.tar.gz) | 2.3 MiB | `native/linux/x64` |
+| [nap_0.1.1_linux_arm64.tar.gz](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_linux_arm64.tar.gz) | 2.1 MiB | `native/linux/arm64` |
 
 ## Popularity
 
-- **Stars**: 2,219 · **Forks**: 67 · **Open issues**: 37 · **Contributors**: 6
+- **Stars**: 2,218 · **Forks**: 67 · **Open issues**: 37 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -55,8 +65,8 @@ Total: **1,690** lines of code across **13** files in the top 5 languages.
 Install metadata for nap lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nap` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/nap.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/nap.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:55:30Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:36Z._

@@ -4,7 +4,7 @@
 
 Code snippets in your terminal
 
-![nap](https://repo.x-cmd.io/nap.svg)
+![nap](https://repo.x-cmd.io/nap.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,21 @@ x install nap
 - **最新版本**: `v0.1.1` (2022-11-21)
 - **最近提交**: 2023-10-30
 - **Release 含资产**: 6 个
-- **发布时间**: 2022-11-21T15:24:51Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [nap_0.1.1_checksums.txt](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_checksums.txt) | 475 B | `other` |
+| [nap_0.1.1_darwin_amd64.tar.gz](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_darwin_amd64.tar.gz) | 2.3 MiB | `native/darwin/x64` |
+| [nap_0.1.1_darwin_arm64.tar.gz](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_darwin_arm64.tar.gz) | 2.3 MiB | `native/darwin/arm64` |
+| [nap_0.1.1_linux_386.tar.gz](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_linux_386.tar.gz) | 2.2 MiB | `native/unknown` |
+| [nap_0.1.1_linux_amd64.tar.gz](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_linux_amd64.tar.gz) | 2.3 MiB | `native/linux/x64` |
+| [nap_0.1.1_linux_arm64.tar.gz](https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_linux_arm64.tar.gz) | 2.1 MiB | `native/linux/arm64` |
 
 ## 流行度
 
-- **Star**: 2,219 · **Fork**: 67 · **开放 issue**: 37 · **贡献者**: 6
+- **Star**: 2,218 · **Fork**: 67 · **开放 issue**: 37 · **贡献者**: 6
 
 ## 累计统计
 
@@ -59,4 +69,4 @@ nap 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:55:30Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:35:36Z._
