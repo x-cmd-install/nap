@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 475,
       "digest": null,
-      "download_count": 51,
+      "download_count": 52,
       "created_at": "2022-11-21T15:24:53Z",
       "updated_at": "2022-11-21T15:24:54Z",
       "browser_download_url": "https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2463908,
       "digest": null,
-      "download_count": 225,
+      "download_count": 226,
       "created_at": "2022-11-21T15:24:53Z",
       "updated_at": "2022-11-21T15:24:53Z",
       "browser_download_url": "https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2409557,
       "digest": null,
-      "download_count": 212,
+      "download_count": 213,
       "created_at": "2022-11-21T15:24:53Z",
       "updated_at": "2022-11-21T15:24:54Z",
       "browser_download_url": "https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2292196,
       "digest": null,
-      "download_count": 99,
+      "download_count": 100,
       "created_at": "2022-11-21T15:24:52Z",
       "updated_at": "2022-11-21T15:24:53Z",
       "browser_download_url": "https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_linux_386.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2408961,
       "digest": null,
-      "download_count": 3431,
+      "download_count": 3435,
       "created_at": "2022-11-21T15:24:51Z",
       "updated_at": "2022-11-21T15:24:52Z",
       "browser_download_url": "https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2243370,
       "digest": null,
-      "download_count": 124,
+      "download_count": 125,
       "created_at": "2022-11-21T15:24:51Z",
       "updated_at": "2022-11-21T15:24:52Z",
       "browser_download_url": "https://github.com/maaslalani/nap/releases/download/v0.1.1/nap_0.1.1_linux_arm64.tar.gz"
